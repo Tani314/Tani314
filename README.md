@@ -8,7 +8,7 @@ Fullstack Software Engineer
 * 🖥️  See my portfolio at [MyPortfolio](http://https://www.nuzhattani.com/)
 * ✉️  You can contact me at [tanitabassum299@gmail.com](mailto:tanitabassum299@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly Scarlet Witch...but don't tell anyone
+* ⚡  I'm secretly Poison Ivy...but don't tell anyone
 
 ### Skills
 
