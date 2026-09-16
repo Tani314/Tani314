@@ -4,7 +4,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Fullstack Software Engineer
 ---------------------------
 
-* 🌍  I'm based in New York City
+* 🌍  I'm based in California
 * 🖥️  See my portfolio at [MyPortfolio](http://https://www.nuzhattani.com/)
 * ✉️  You can contact me at [tanitabassum299@gmail.com](mailto:tanitabassum299@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
