@@ -2,9 +2,9 @@
 
 Software engineer working on compute infrastructure and distributed systems.
 
-Currently building **[Fallow](https://github.com/Tani314/Fallow)**, an idle-workload
-reclamation controller for Kubernetes: detects idle Deployments and escalates through
-notify, scale-to-zero and archive-backed deletion, reversible at every stage.
+I build the control loops and platform services that keep large fleets efficient
+and reliable: schedulers, Kubernetes controllers, and the managed services other
+teams run their workloads on. Recent work is pinned below.
 
 Previously at Amazon, building fault-tolerant multi-region scheduling and platform
 services for a petabyte-scale security data platform.
